@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hola, soy Benja
 
-<!--
-**benja3086/benja3086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer**
 
-Here are some ideas to get you started:
+Me gusta crear aplicaciones web modernas y escalables.  
+Trabajo principalmente con tecnologías de JavaScript en el desarrollo frontend y backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Podés visitar mi portfolio:  
+https://benjaminquinteros.vercel.app/
+
+## 🚀 Tecnologías
+- React
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- HTML
+- CSS
+
+## 📊 Estadísticas
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=benja3086&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benja3086&layout=compact)
