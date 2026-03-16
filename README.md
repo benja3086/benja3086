@@ -3,8 +3,8 @@
 
 💻 **Full Stack Developer**
 
-Me gusta crear aplicaciones web modernas y escalables.  
-Trabajo principalmente con tecnologías de JavaScript en el desarrollo frontend y backend.
+Me gusta tener desafios.  
+Trabajo principalmente con tecnologías de JavaScripten el desarrollo frontend y backend.
 
 🌐 Podés visitar mi portfolio:  
 https://benjaminquinteros.vercel.app/
